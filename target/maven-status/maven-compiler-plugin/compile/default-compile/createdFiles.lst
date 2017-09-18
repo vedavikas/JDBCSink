@@ -1,0 +1,7 @@
+com\eneco\mysqlsink\WeatherForecastSink\WeatherForecastTask.class
+com\eneco\mysqlsink\WeatherForecastSink\util\MySQLJDBCCalls.class
+com\eneco\mysqlsink\WeatherForecastSink\util\DBConn.class
+com\eneco\mysqlsink\WeatherForecastSink\WeatherForecastConnector.class
+com\eneco\mysqlsink\WeatherForecastSink\WeatherForecastConfig.class
+com\eneco\mysqlsink\WeatherForecastSink\VersionUtil.class
+com\eneco\mysqlsink\WeatherForecastSink\WeatherForecastSink.class
